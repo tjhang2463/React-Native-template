@@ -2,7 +2,7 @@
  
 $HostName = "localhost";
  
-$DatabaseName = "estate";
+$DatabaseName = "template";
  
 $HostUser = "root";
  
